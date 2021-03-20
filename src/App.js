@@ -1,8 +1,9 @@
+import Player from "./components/Player";
 
 function App() {
   return (
     <div className="App">
-      lets build react music
+      <Player />
     </div>
   );
 }
